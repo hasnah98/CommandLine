@@ -1,4 +1,4 @@
-# MyCLI (Command Line by Python)
+# MyCLI (Command Line in Python)
 
 A simple Python command-line tool to greet a user or say goodbye.
 
